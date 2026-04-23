@@ -130,51 +130,37 @@ python3 list_tools.py
 
 ## 📸 Screenshots
 
-### 🔑 API Keys Setup
 
-![API Keys](screenshots/ai apl key and github info.png)
-
----
-
-### 📁 Create Project Directory
-
-![Create Dir](screenshots/create dir for ai_git.png)
+## 🔑 API Keys Setup
+![API Keys](screenshots/api-keys.png)
 
 ---
-
-### 🧪 Python Installation
-
-![Python Install](screenshots/install python.png)
+## 📁 Create Project Directory
+![Create Dir](screenshots/create-dir.png)
 
 ---
-
-### ⚙️ Install venv & pip
-
-![venv](screenshots/install venv and pip.png)
+## 🧪 Python Installation
+![Python Install](screenshots/install-python.png)
 
 ---
-
-### 📦 Install MCP Server
-
-![MCP Install](screenshots/install modulecontextprotocol.png)
+## ⚙️ Install venv & pip
+![venv](screenshots/install-venv.png)
 
 ---
-
-### 🚀 MCP Server Running
-
-![MCP Running](screenshots/git mcp is running.png)
+## 📦 Install MCP Server
+![MCP Install](screenshots/install-mcp.png)
 
 ---
-
-### 🤖 Give Task to Agent
-
-![Agent Task](screenshots/give a task to agent.png)
+## 🚀 MCP Server Running
+![MCP Running](screenshots/mcp-running.png)
 
 ---
+## 🤖 Give Task to Agent
+![Agent Task](screenshots/agent-task.png)
 
-### 📂 Repository Created
-
-![Repo](screenshots/repo created.png)
+---
+## 📂 Repository Created
+![Repo](screenshots/repo-created.png)
 
 ---
 
